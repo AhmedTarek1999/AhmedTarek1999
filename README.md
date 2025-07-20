@@ -27,6 +27,8 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ahmed-tarek99/)  
+📧 **Email:** [ahmedtarek.email@gmail.com](mailto:ahmed.tarek.mohsen@hotmail.com)  
+
 Always happy to connect, share ideas, and talk data!
 
 ---
