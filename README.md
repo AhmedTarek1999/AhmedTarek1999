@@ -7,8 +7,8 @@
 
 ## 💼 About Me
 
-- 🎓 IT Graduate with a passion for **data architecture**, **automation**, and **analytics**
-- 🏢 Currently building scalable data solutions @ **Orion** as a **Data Analytics Engineer**
+- 🎓 Electronics and Communication Engineer Graduate with a passion for **data architecture**, **automation**, and **analytics**
+- 🏢 Currently building scalable data solutions @ **Orion Digital Solutions** as a **Data & Analytics Engineer**
 - ⚙️ Experienced in:
   - **Python**, **SQL**, **Power BI**
   - **Microsoft Fabric**, **Databricks**, **Azure**, **ADF**
